@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../VS code"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "AI for every one",
+		"liveServer.settings.port": 5501
+	}
+}
