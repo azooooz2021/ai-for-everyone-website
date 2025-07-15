@@ -256,8 +256,7 @@ We welcome contributions from the community! Here's how you can help:
 
 📧 **Email:** [azooooz2021@gmail.com](mailto:azooooz2021@gmail.com)  
 🏢 **Location:** Saudi Arabia, MUB ITC Aramco  
-🐦 **Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)  
-💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+💼 **LinkedIn:** [Abdulaziz Mulla](https://www.linkedin.com/in/abdulazizmulla)
 
 *"Making AI accessible to everyone, one learner at a time"* ✨
 
